@@ -1,0 +1,10 @@
+.btn-sair{
+    background: none;
+    color: #dc3545;
+}
+
+.btn-sair:hover{
+    background: #dc3545;
+    color: #fff;
+}
+.sticky-top-cart { top: 5.4em; }
